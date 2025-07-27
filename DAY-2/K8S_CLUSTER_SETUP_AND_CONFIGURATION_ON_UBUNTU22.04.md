@@ -1,3 +1,5 @@
+**USE t3.medium INSTANCE TYPE**
+
 **FOR MASTER**
 
 sudo su -
