@@ -152,7 +152,7 @@ sudo apt-get update
 
 sudo apt install -y kubelet kubeadm kubectl
 
-sudo containerd config default | sudo tee /etc/containerd/config.toml > /dev/null
+#sudo containerd config default | sudo tee /etc/containerd/config.toml > /dev/null
 
 sudo systemctl restart containerd
 
